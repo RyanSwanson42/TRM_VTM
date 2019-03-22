@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-aop-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-aspects-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-beans-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-build-src-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-context-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-context-support-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-core-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-expression-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-framework-bom-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-instrument-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-instrument-tomcat-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-jdbc-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-jms-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-orm-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-oxm-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-struts-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-test-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-tx-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-web-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-webmvc-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/Spring JARs/spring-webmvc-portlet-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Driver/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/license.txt"/>
+	<classpathentry kind="lib" path="lib/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aspects-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-build-src-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-support-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-bom-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-instrument-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-instrument-tomcat-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jms-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-orm-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-oxm-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-struts-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-test-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-portlet-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/TRM/TRM/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/TRM/TRM/lib/jstl-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/TRM/TRM/lib/jstl-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/syntel/Desktop/TRM/TRM/lib/jstl-impl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
